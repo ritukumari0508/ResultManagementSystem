@@ -1,1 +1,3 @@
 # ResultManagementSystem
+
+teacher password --> pwd
